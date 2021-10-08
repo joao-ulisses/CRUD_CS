@@ -6,7 +6,8 @@ namespace CRUD_CS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Serie meuObjeto = new Serie();
+            
         }
     }
 }
